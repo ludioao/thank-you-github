@@ -1289,4 +1289,5 @@ Signed,
 - Adjie Saputra Wijaya ([@uyeh](https://github.com/uyeh)), Student, Indonesia
 - Tom ([@tmos](https://github.com/tmos)), Front-end developer, Québec
 - Naresh Narsing ([@Naresh-Narsing](https://github.com/Naresh-Narsing)), Android Developer,India
+- Ludio Oliveira ([@ludioao](https://github.com/ludioao)), Software Developer, Brazil
 
